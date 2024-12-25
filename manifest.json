@@ -13,6 +13,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
+	  "id": "desmond.david@outlook.com",
       "strict_min_version": "64.0"
     }
   },
@@ -20,9 +21,9 @@
     "search_provider": {
       "name": "SearXNG",
       "keyword": "@searxng, @searx, @sx",
-      "search_url": "https://searx.be/search?q={searchTerms}",
+      "search_url": "https://desmond-david.com/searx/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
-      "suggest_url": "https://searx.be/autocompleter?q={searchTerms}",
+      "suggest_url": "https://desmond-david.com/searx/autocompleter?q={searchTerms}",
       "is_default": true
     }
   }
